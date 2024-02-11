@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-25T00:15:31 IST" name="Default suite" finished-at="2023-09-25T00:15:54 IST" duration-ms="22738">
+    <groups>
+    </groups>
+    <test started-at="2023-09-25T00:15:31 IST" name="Default test" finished-at="2023-09-25T00:15:54 IST" duration-ms="22738">
+      <class name="basic.CRUDoperation.CreateProjectMe">
+        <test-method signature="createproject()[pri:0, instance:basic.CRUDoperation.CreateProjectMe@4cc8eb05]" started-at="2023-09-25T00:15:31 IST" name="createproject" finished-at="2023-09-25T00:15:54 IST" duration-ms="22682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createproject -->
+      </class> <!-- basic.CRUDoperation.CreateProjectMe -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

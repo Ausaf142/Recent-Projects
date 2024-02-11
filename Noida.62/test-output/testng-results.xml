@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[ye maderchod hai fasja rha apne bhosre me dalo]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-02-08T23:47:14 IST" name="Default suite" finished-at="2024-02-08T23:47:33 IST" duration-ms="19351">
+    <groups>
+    </groups>
+    <test started-at="2024-02-08T23:47:14 IST" name="Default test" finished-at="2024-02-08T23:47:33 IST" duration-ms="19351">
+      <class name="TestNG.Lead">
+        <test-method is-config="true" signature="BS()[pri:0, instance:TestNG.Lead@2925bf5b]" started-at="2024-02-08T23:47:14 IST" name="BS" finished-at="2024-02-08T23:47:14 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:TestNG.Lead@2925bf5b]" started-at="2024-02-08T23:47:14 IST" name="BT" finished-at="2024-02-08T23:47:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:TestNG.Lead@2925bf5b]" started-at="2024-02-08T23:47:14 IST" name="BC" finished-at="2024-02-08T23:47:16 IST" duration-ms="2669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:TestNG.Lead@2925bf5b]" started-at="2024-02-08T23:47:16 IST" name="BM" finished-at="2024-02-08T23:47:21 IST" duration-ms="4941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="Leads()[pri:0, instance:TestNG.Lead@2925bf5b]" started-at="2024-02-08T23:47:21 IST" name="Leads" finished-at="2024-02-08T23:47:33 IST" duration-ms="11657" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ye maderchod hai fasja rha apne bhosre me dalo]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Leads -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:TestNG.Lead@2925bf5b]" started-at="2024-02-08T23:47:33 IST" name="AM" finished-at="2024-02-08T23:47:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:TestNG.Lead@2925bf5b]" started-at="2024-02-08T23:47:33 IST" name="AC" finished-at="2024-02-08T23:47:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:TestNG.Lead@2925bf5b]" started-at="2024-02-08T23:47:33 IST" name="AT" finished-at="2024-02-08T23:47:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="RemoveDatabase()[pri:0, instance:TestNG.Lead@2925bf5b]" started-at="2024-02-08T23:47:33 IST" name="RemoveDatabase" finished-at="2024-02-08T23:47:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveDatabase -->
+      </class> <!-- TestNG.Lead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

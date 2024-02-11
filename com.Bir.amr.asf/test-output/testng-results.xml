@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-29T02:38:10 IST" name="Suite" finished-at="2024-01-29T02:38:11 IST" duration-ms="61">
+    <groups>
+      <group name="sanity">
+        <method signature="GroupEx.sanity1()[pri:0, instance:TestNG.GroupEx@6ae5aa72]" name="sanity1" class="TestNG.GroupEx"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-01-29T02:38:10 IST" name="Test" finished-at="2024-01-29T02:38:11 IST" duration-ms="61">
+      <class name="TestNG.GroupEx">
+        <test-method signature="sanity1()[pri:0, instance:TestNG.GroupEx@6ae5aa72]" started-at="2024-01-29T02:38:11 IST" name="sanity1" finished-at="2024-01-29T02:38:11 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sanity1 -->
+      </class> <!-- TestNG.GroupEx -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

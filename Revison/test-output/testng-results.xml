@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[====connected to DataBase======]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-10-03T22:06:06 IST" name="Suite" finished-at="2022-10-03T22:06:06 IST" duration-ms="101">
+    <groups>
+      <group name="smoke">
+        <method signature="Prog2.qspider()[pri:0, instance:TestNG.Prog2@6f46426d]" name="qspider" class="TestNG.Prog2"/>
+        <method signature="Prog3.school()[pri:0, instance:TestNG.Prog3@5403f35f]" name="school" class="TestNG.Prog3"/>
+      </group> <!-- smoke -->
+      <group name="ausaf">
+        <method signature="Prog2.pyspider()[pri:0, instance:TestNG.Prog2@6f46426d]" name="pyspider" class="TestNG.Prog2"/>
+      </group> <!-- ausaf -->
+    </groups>
+    <test started-at="2022-10-03T22:06:06 IST" name="Test2" finished-at="2022-10-03T22:06:06 IST" duration-ms="95">
+      <class name="TestNG.Prog2">
+        <test-method signature="jspider()[pri:0, instance:TestNG.Prog2@6f46426d]" started-at="2022-10-03T22:06:06 IST" name="jspider" finished-at="2022-10-03T22:06:06 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jspider -->
+        <test-method signature="pyspider()[pri:0, instance:TestNG.Prog2@6f46426d]" started-at="2022-10-03T22:06:06 IST" name="pyspider" finished-at="2022-10-03T22:06:06 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pyspider -->
+        <test-method signature="qspider()[pri:0, instance:TestNG.Prog2@6f46426d]" started-at="2022-10-03T22:06:06 IST" name="qspider" finished-at="2022-10-03T22:06:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- qspider -->
+      </class> <!-- TestNG.Prog2 -->
+    </test> <!-- Test2 -->
+    <test started-at="2022-10-03T22:06:06 IST" name="Test3" finished-at="2022-10-03T22:06:06 IST" duration-ms="90">
+      <class name="TestNG.Prog3">
+        <test-method signature="college()[pri:0, instance:TestNG.Prog3@5403f35f]" started-at="2022-10-03T22:06:06 IST" name="college" finished-at="2022-10-03T22:06:06 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- college -->
+        <test-method signature="school()[pri:0, instance:TestNG.Prog3@5403f35f]" started-at="2022-10-03T22:06:06 IST" name="school" finished-at="2022-10-03T22:06:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====connected to DataBase======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- school -->
+      </class> <!-- TestNG.Prog3 -->
+    </test> <!-- Test3 -->
+    <test started-at="2022-10-03T22:06:06 IST" name="Test1" finished-at="2022-10-03T22:06:06 IST" duration-ms="101">
+      <class name="TestNG.Prog1">
+        <test-method signature="ausaf()[pri:-1, instance:TestNG.Prog1@55b53d44]" started-at="2022-10-03T22:06:06 IST" name="ausaf" finished-at="2022-10-03T22:06:06 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ausaf -->
+        <test-method signature="dosa()[pri:0, instance:TestNG.Prog1@55b53d44]" started-at="2022-10-03T22:06:06 IST" name="dosa" finished-at="2022-10-03T22:06:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosa -->
+        <test-method signature="dosa()[pri:0, instance:TestNG.Prog1@55b53d44]" started-at="2022-10-03T22:06:06 IST" name="dosa" finished-at="2022-10-03T22:06:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosa -->
+        <test-method signature="dosa()[pri:0, instance:TestNG.Prog1@55b53d44]" started-at="2022-10-03T22:06:06 IST" name="dosa" finished-at="2022-10-03T22:06:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosa -->
+        <test-method signature="skip()[pri:0, instance:TestNG.Prog1@55b53d44]" started-at="2022-10-03T22:06:06 IST" name="skip" finished-at="2022-10-03T22:06:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skip -->
+        <test-method signature="amarkirani()[pri:0, instance:TestNG.Prog1@55b53d44]" started-at="2022-10-03T22:06:06 IST" name="amarkirani" finished-at="2022-10-03T22:06:06 IST" depends-on-methods="TestNG.Prog1.skip" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amarkirani -->
+        <test-method signature="amar()[pri:1, instance:TestNG.Prog1@55b53d44]" started-at="2022-10-03T22:06:06 IST" name="amar" finished-at="2022-10-03T22:06:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amar -->
+        <test-method signature="birvijay()[pri:2, instance:TestNG.Prog1@55b53d44]" started-at="2022-10-03T22:06:06 IST" name="birvijay" finished-at="2022-10-03T22:06:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- birvijay -->
+      </class> <!-- TestNG.Prog1 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
