@@ -11,5 +11,6 @@ public static void main(String[] args) {
 	driver.get("https://www.google.com");
 	driver.findElement(By.id("APjFqb")).sendKeys("www.amarkumar.art.blog");
 	driver.findElement(By.name("btnK")).click();
+	System.out.println("slkskfslks");
 }
 }
